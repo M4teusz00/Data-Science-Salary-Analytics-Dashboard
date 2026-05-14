@@ -27,6 +27,7 @@ https://www.kaggle.com/datasets/yusufdelikkaya/datascience-salaries-2024
 - Step 5 : The theme of the Dashboard was created manually. The boxes behind the charts were created by selecting: Insert > Shapes > Rectangle.
 
 - Step 6 : Vizualizations used in the dashboard:
+  
 a) Filled Map - visual comparison of average salary (USD) across different regions based on employee residence 
 
 b) Pie Chart - to illustrate the proportions of average salary by company size within the dataset
