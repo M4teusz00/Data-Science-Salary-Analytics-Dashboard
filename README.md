@@ -1,5 +1,5 @@
 
-# Data Science Salary (Power BI Dashboard)
+# Data Science Salary Analytics Dashboard (Power BI Dashboard)
 
 ### Dashboard File: The dashboard can be simply downloaded from the files section above.
 
